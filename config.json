@@ -23,6 +23,11 @@
                     "email"
                 ],
                 "domain": "videos.somepro.com"
+            },
+            "playback": {
+                "autoplay": true,
+                "autonext": true,
+                "preload": false
             }
         },
         "hub": {
@@ -37,6 +42,11 @@
                     "email"
                 ],
                 "domain": "videos.somepro.com"
+            },
+            "playback": {
+                "autoplay": true,
+                "autonext": true,
+                "preload": false
             }
         }
     }
