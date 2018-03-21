@@ -15,12 +15,10 @@
             "sharing": {
                 "enabled": true,
                 "networks": [
-                    "facebook",
                     "twitter",
                     "pinterest",
                     "google-plus",
-                    "linkedin",
-                    "email"
+                    "linkedin"
                 ],
                 "domain": "videos.somepro.com"
             },
