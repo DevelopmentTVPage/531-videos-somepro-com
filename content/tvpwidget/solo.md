@@ -17,10 +17,7 @@
         "networks": [
             "facebook",
             "twitter",
-            "pinterest",
-            "google-plus",
-            "linkedin",
-            "email"
+            "pinterest"
         ],
         "domain": "videos.somepro.com"
     },
