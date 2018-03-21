@@ -23,5 +23,6 @@
             "email"
         ],
         "domain": "videos.somepro.com"
-    }
+    },
+    "autoplay": true
 }
