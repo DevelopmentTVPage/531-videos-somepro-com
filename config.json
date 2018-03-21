@@ -24,6 +24,20 @@
                 ],
                 "domain": "videos.somepro.com"
             }
+        },
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "videos.somepro.com"
+            }
         }
     }
 }
