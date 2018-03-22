@@ -18,7 +18,9 @@
                     "twitter",
                     "pinterest",
                     "google-plus",
-                    "linkedin"
+                    "linkedin",
+                    "facebook",
+                    "email"
                 ],
                 "domain": "videos.somepro.com"
             },
